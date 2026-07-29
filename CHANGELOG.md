@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Migrate the Android plugin and primary example to built-in Kotlin.
+- Require Flutter 3.44 / Dart 3.12 and compile Android Java and Kotlin sources
+  for JVM 21.
+
 ## [5.1.0] - 2026-05-28
 
 ### Added
